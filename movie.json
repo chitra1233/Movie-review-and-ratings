@@ -1,0 +1,11 @@
+Movie. Jso
+
+{
+  "success": true,
+  "review": {
+    "user": "66e4b2f...",
+    "rating": 4.5,
+    "comment": "Great storyline and visuals!",
+    "createdAt": "2025-10-27T12:00:00Z"
+  }
+}
